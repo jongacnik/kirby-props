@@ -1,0 +1,15 @@
+{
+    "name": "monoeq/kirby-props",
+    "description": "Kirby Props",
+    "type": "kirby-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jon Gacnik",
+            "email": "jon@folderstudio.com"
+        }
+    ],
+    "require": {
+        "getkirby/composer-installer": "^1.1"
+    }
+}
