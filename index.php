@@ -1,6 +1,6 @@
 <?php
 
-Kirby::plugin('monoeq/kprops', [
+Kirby::plugin('jg/kprops', [
   'options' => [
     'key' => 'props'
   ]
@@ -21,7 +21,7 @@ function kprops (array $data = [ ], $parent = null, $raw = null) {
     return $props;
   } else {
     return [
-      option('monoeq.kprops.key', 'props') => $props
+      option('jg.kprops.key', 'props') => $props
     ];
   }
 }

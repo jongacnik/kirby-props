@@ -70,14 +70,14 @@ You can set the `key` content is assigned to:
 
 ```php
 [
-  'monoeq.kprops.key' => 'props' // default
+  'jg.kprops.key' => 'props' // default
 ]
 ```
 
 ## Installation
 
 ```
-composer require monoeq/kirby-props
+composer require jg/kirby-props
 ```
 
 <details>
